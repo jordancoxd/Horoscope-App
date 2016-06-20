@@ -1,0 +1,18 @@
+body {
+	display: inline-block;
+}
+.container {
+	text-align: center;
+}
+.description {
+	text-align: left;
+	font-size: 15px;
+}
+
+img {
+	margin-bottom: 15px;
+} 
+
+button {
+	margin-top: 5px;
+}
